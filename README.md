@@ -31,7 +31,7 @@ Clone o repositório e instale as dependências do projeto:
 
 ```bash
 git clone <url-do-repositorio>
-cd <nome-do-repositorio>/app/front
+cd RGB-lab/app/front
 npm install
 ```
 
