@@ -14,7 +14,6 @@ Projeto pessoal criado a partir da necessidade de visualizar e escolher cores co
 - Remoção das cores salvas quando necessário.
 
 ## Tecnologias utilizadas
-
 - React
 - TypeScript
 - Vite
